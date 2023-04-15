@@ -24,3 +24,23 @@
 <p align="center">
   <img src="image/video.gif" alt=""/>
 </p>
+
+##
+ ### Installation
+  ```
+  # clone the repository
+  $ git clone https://github.com/SamueleAmato/Lawliet
+  
+  # change the working directory to sherlock
+  $ cd Lawliet
+
+  # install the requirements
+  $ pip3 install -r requirements.txt
+  
+  //Linux
+  bash lawliet.sh
+  
+  //windows
+  lawliet.exe
+  ```
+##
