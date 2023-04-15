@@ -36,11 +36,12 @@
 
   # install the requirements
   $ pip3 install -r requirements.txt
-  
+  ```
+##
+### Usage
+  ```
   //Linux
   bash lawliet.sh
   
-  //windows
+  //Windows
   lawliet.exe
-  ```
-##
