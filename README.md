@@ -45,3 +45,11 @@
   
   //Windows
   lawliet.exe
+  ```
+##
+### Tested on
+
+- [x] Arch
+- [x] Debian
+- [x] Termux
+- [x] Windows
