@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="./docs/image/video.gif" alt=""/>
+  <img src="./docs/images/video.gif" alt=""/>
 </p>
 
 ##
