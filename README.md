@@ -44,7 +44,8 @@
   bash lawliet.sh
   
   //Windows
-  lawliet.exe
+  cd cmd
+  python main.py
   ```
 ##
 ### Tested on
