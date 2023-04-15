@@ -57,5 +57,5 @@
 ##
 ### Issued and Suggestions
 If you have encountered an issue with EvilGo or would like to suggest an improvement, please report it in our Issues section.
-Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.
+Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br>
 _Thank you for your contribution!_
