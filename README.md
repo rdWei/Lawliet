@@ -7,7 +7,7 @@
 </p></h6>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.2.0-green" alt=""/>
+  <img src="https://img.shields.io/badge/Version-0.0.1-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
   <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>
 
