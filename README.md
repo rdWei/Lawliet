@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/images/test.png" alt=""/>
+  <img src="docs/images/image.png" alt=""/>
 </p>
  <h6><p align="center">
     track down social media profiles using a specific username across multiple <a href="docs/website.txt">social network</a> platforms
