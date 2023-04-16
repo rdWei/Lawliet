@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.0.1-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>
+  <img src="https://img.shields.io/badge/Author-RedKatz-937DC2" alt=""/>
 
 </p>
 <p align="center">
@@ -29,7 +29,7 @@
  ### Installation
   ```
   # clone the repository
-  $ git clone https://github.com/SamueleAmato/Lawliet
+  $ git clone https://github.com/RedKatz/Lawliet
   
   # change the working directory to sherlock
   $ cd Lawliet
