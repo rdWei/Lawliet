@@ -553,4 +553,4 @@ with open(nome+'.txt', 'w') as fp:
         # write each item on a new line
         fp.write("%s\n" % item)
 
-console.print("\n\n:: All link saved on name.txt ::", justify="center", style=green_bold)
+console.print("\n\n:: All link saved on"+nome+".txt ::", justify="center", style=green_bold)
