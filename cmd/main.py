@@ -548,4 +548,9 @@ try:
 except Exception:
             pass
 
-bcbonsole.print("\n\n:: All link saved on name.txt ::", justify="center", style=green_bold)
+with open(nome+'.txt', 'w') as fp:
+    for item in link_list:
+        # write each item on a new line
+        fp.write("%s\n" % item)
+
+console.print("\n\n:: All link saved on name.txt ::", justify="center", style=green_bold)
