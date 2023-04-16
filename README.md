@@ -31,7 +31,7 @@
   # clone the repository
   $ git clone https://github.com/RedKatz/Lawliet
   
-  # change the working directory to sherlock
+  # change the working directory to Lawliet
   $ cd Lawliet
 
   # install the requirements
