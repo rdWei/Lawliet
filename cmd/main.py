@@ -548,6 +548,34 @@ try:
 except Exception:
             pass
 
+try:
+    site_check_y_n((f"https://etsy.com/people/{nome}"), 400000, 1000000, "Etsy")
+except Exception:
+    pass
+
+try:
+    site_check_y_n((f"https://twitter.com/{nome}"), 18000, 20000, "Twitter")
+except Exception:
+    pass
+
+try:
+    site_check_y_n((f"https://reddit.com/u/{nome}"), 200000, 300000, "Reddit")
+except Exception:
+    pass
+
+try:
+    site_check_y_n((f"https://github.com/{nome}"), 200000, 30000, "GitHub")
+except Exception:
+    pass
+
+
+try:
+    site_check_y_n((f"https://tumblr.com/{nome}"), 32000, 32000, "Tumblr")
+except Exception:
+    pass
+
+# Duolingo does not return any response content size; would be in your best interest to check for profile existence differently
+
 with open(nome+'.txt', 'w') as fp:
     for item in link_list:
         # write each item on a new line
