@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.0.1-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-rdWei-937DC2" alt=""/>
 </p>
 <p align="center">
   <a href="#installation">Installation</a>
