@@ -53,10 +53,10 @@
 - [x] Termux
 - [x] Windows
 
-### ToDo
+### Todo
 
 - [ ] Add nsfw option
-- [ ] Rewrite in rust
+- [ ] Rewrite in zig 
 
 ##
 ### Issued and Suggestions
